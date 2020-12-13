@@ -1,6 +1,6 @@
 # Programming Foundations - Module 1
 
-## Lesson Task 1 Question
+## Lesson Task 1 Answer
 
 Install the Live Server extension in Visual Studio Code.
 
